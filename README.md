@@ -37,16 +37,16 @@ File Structure:
 
 
 Dependencies:
-PyQt5: Python bindings for the Qt application framework.
+ - PyQt5: Python bindings for the Qt application framework.
 
 
 Output:
-When the application runs, you'll see a black window displaying the current time in a digital clock style. The time will update every second.
+- When the application runs, you'll see a black window displaying the current time in a digital clock style. The time will update every second.
 
 
 Customization:
-You can modify the font color, size, or background by updating the setStyleSheet calls in the initUI method.
-Adjust the window size or position by modifying the setGeometry parameters.
+- You can modify the font color, size, or background by updating the setStyleSheet calls in the initUI method.
+  Adjust the window size or position by modifying the setGeometry parameters.
 
 
 
